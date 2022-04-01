@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcebe7bb56a2e534ebd21927941299db, type: 3}
+  m_Name: Target_EarthSlime
+  m_EditorClassIdentifier: 
+  value: {fileID: 2323614709795845260, guid: 497dcef0bd5b9654fbc4cdce3a4222f9, type: 3}

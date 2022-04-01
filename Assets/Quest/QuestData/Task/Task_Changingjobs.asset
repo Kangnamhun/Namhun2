@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 810645212c15a81498f03d280e54bd1b, type: 3}
+  m_Name: Task_Changingjobs
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: a8cd8a524cffa6144ad6ddbcc3418f78, type: 2}
+  codeName: CHANGINGJOBS
+  description: You have to choose your job.
+  action: {fileID: 11400000, guid: 89ac946f21336cf419b9f58a4e5ef05a, type: 2}
+  targets:
+  - {fileID: 11400000, guid: a03f66eacec909c4388705720039ac1b, type: 2}
+  initialSuccessValue: {fileID: 0}
+  needSuccessToComplete: 1
+  canReceiveReportDuringCompletion: 0

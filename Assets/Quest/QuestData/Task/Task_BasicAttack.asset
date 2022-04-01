@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 810645212c15a81498f03d280e54bd1b, type: 3}
+  m_Name: Task_BasicAttack
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 506fd38b4e189354e93b66059384a525, type: 2}
+  codeName: BASICATTACK
+  description: Attack dummy with basic attack.
+  action: {fileID: 11400000, guid: 89ac946f21336cf419b9f58a4e5ef05a, type: 2}
+  targets:
+  - {fileID: 11400000, guid: 3c581f194b30f2b4f976f3d1fe519df1, type: 2}
+  initialSuccessValue: {fileID: 0}
+  needSuccessToComplete: 0
+  canReceiveReportDuringCompletion: 0

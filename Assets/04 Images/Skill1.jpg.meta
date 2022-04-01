@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: ad4b4c9367212504f9f6d184f749861f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6730532010571371854
+    second: 4b0bf1b807a322db222eaff10ec75fb0_0
+  - first:
+      213: 5510185535820103598
+    second: 4b0bf1b807a322db222eaff10ec75fb0_1
+  - first:
+      213: -7421646448739818622
+    second: 4b0bf1b807a322db222eaff10ec75fb0_2
+  - first:
+      213: -9155570854402165294
+    second: 4b0bf1b807a322db222eaff10ec75fb0_3
+  - first:
+      213: 3205930918796888442
+    second: 4b0bf1b807a322db222eaff10ec75fb0_4
+  - first:
+      213: 5640153441554032758
+    second: 4b0bf1b807a322db222eaff10ec75fb0_5
+  - first:
+      213: -7802563381647706646
+    second: 4b0bf1b807a322db222eaff10ec75fb0_6
+  - first:
+      213: -337109561442975085
+    second: 4b0bf1b807a322db222eaff10ec75fb0_7
+  - first:
+      213: 489153511640601104
+    second: 4b0bf1b807a322db222eaff10ec75fb0_8
+  - first:
+      213: 3045036961979700426
+    second: 4b0bf1b807a322db222eaff10ec75fb0_9
+  - first:
+      213: 4229410307071938261
+    second: 4b0bf1b807a322db222eaff10ec75fb0_10
+  - first:
+      213: -9020882454305154600
+    second: 4b0bf1b807a322db222eaff10ec75fb0_11
+  - first:
+      213: -2867391816421271387
+    second: Magic_01
+  - first:
+      213: 1765293070766788910
+    second: 4b0bf1b807a322db222eaff10ec75fb0_13
+  - first:
+      213: 2711350201820174826
+    second: 4b0bf1b807a322db222eaff10ec75fb0_14
+  - first:
+      213: 7586481834978897500
+    second: 4b0bf1b807a322db222eaff10ec75fb0_15
+  - first:
+      213: 7789680453554502035
+    second: Bow_01
+  - first:
+      213: 7846385014881470884
+    second: Bow_02
+  - first:
+      213: -3945626159104717779
+    second: 4b0bf1b807a322db222eaff10ec75fb0_18
+  - first:
+      213: -3772756938629842982
+    second: Magic_02
+  - first:
+      213: -3748395960274887398
+    second: 4b0bf1b807a322db222eaff10ec75fb0_20
+  - first:
+      213: 135065427441996418
+    second: 4b0bf1b807a322db222eaff10ec75fb0_21
+  - first:
+      213: 1305617297117744166
+    second: 4b0bf1b807a322db222eaff10ec75fb0_22
+  - first:
+      213: -997090454743604221
+    second: 4b0bf1b807a322db222eaff10ec75fb0_23
+  - first:
+      213: -5121634325596289800
+    second: 4b0bf1b807a322db222eaff10ec75fb0_24
+  - first:
+      213: 8560022701489077438
+    second: 4b0bf1b807a322db222eaff10ec75fb0_25
+  - first:
+      213: 365314412958492124
+    second: 4b0bf1b807a322db222eaff10ec75fb0_26
+  - first:
+      213: 4734668718158278811
+    second: 4b0bf1b807a322db222eaff10ec75fb0_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 74
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81956c55af438d0800000000000000
+      internalID: -2867391816421271387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_01
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 120
+        width: 74
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997bebd9118a1c60800000000000000
+      internalID: 7789680453554502035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_02
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 119
+        width: 74
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a945fe5995f3ec60800000000000000
+      internalID: 7846385014881470884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_02
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 120
+        width: 74
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f311ad8974abc0800000000000000
+      internalID: -3772756938629842982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

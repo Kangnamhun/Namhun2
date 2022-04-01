@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 810645212c15a81498f03d280e54bd1b, type: 3}
+  m_Name: Task_Jump
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 0d70f51dc91012d49bd408a205c89464, type: 2}
+  codeName: JUMP
+  description: You have to jump
+  action: {fileID: 11400000, guid: f2e8487896b673045b8b058590e7ae6e, type: 2}
+  targets:
+  - {fileID: 11400000, guid: f8351e2b026818e4ba97e1e97cb46093, type: 2}
+  initialSuccessValue: {fileID: 0}
+  needSuccessToComplete: 1
+  canReceiveReportDuringCompletion: 0

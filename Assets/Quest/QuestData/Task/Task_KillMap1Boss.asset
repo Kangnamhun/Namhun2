@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 810645212c15a81498f03d280e54bd1b, type: 3}
+  m_Name: Task_KillMap1Boss
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: 52872427afc027e479ca78318d48d5f4, type: 2}
+  codeName: KILL_MAP1BOSS
+  description: Kill Map1 Boss
+  action: {fileID: 11400000, guid: f2e8487896b673045b8b058590e7ae6e, type: 2}
+  targets:
+  - {fileID: 11400000, guid: 9bb869dd6a0e85549953c59c8115119a, type: 2}
+  initialSuccessValue: {fileID: 0}
+  needSuccessToComplete: 1
+  canReceiveReportDuringCompletion: 0

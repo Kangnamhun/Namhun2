@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 184ad0bf96ccdd54390125f4520e089f, type: 3}
+  m_Name: Quest_Town
+  m_EditorClassIdentifier: 
+  category: {fileID: 11400000, guid: a8cd8a524cffa6144ad6ddbcc3418f78, type: 2}
+  icon: {fileID: 0}
+  codeName: TOWN
+  displayName: King's Road
+  description: Certification to go the way of the king.
+  taskGroups:
+  - tasks:
+    - {fileID: 11400000, guid: 9b6c785c72c703a43b3cb1b175c9df38, type: 2}
+    - {fileID: 11400000, guid: f47721ba6d230944d8be3525f8e0c00f, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: c295f3f484db0614fa0d3f222a6de1e4, type: 2}
+  - {fileID: 11400000, guid: 4b862b58d7c0c9d45a66caba448ee1af, type: 2}
+  useAutoComplete: 1
+  isCancelable: 0
+  isSaveable: 0
+  acceptionConditions: []
+  cancelConditions: []

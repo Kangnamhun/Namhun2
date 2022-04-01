@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAttlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 449ab7104412f0d4e98df0a3cd9b9c55, type: 3}
+    - {fileID: 102900000, guid: 71e62e39c10c87d44a03e5b869e4c4c7, type: 3}
+    - {fileID: 2800000, guid: 904300c3ee0e1b944b9c7be8d2d70bf7, type: 3}
+    - {fileID: 2800000, guid: ad4b4c9367212504f9f6d184f749861f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b01e95316294b0f49898dd0f437fc0a8, type: 3}
+  - {fileID: 21300000, guid: f8fceb41b68ef0a4ea35add24f4635e0, type: 3}
+  - {fileID: 21300000, guid: 3a81e8a1835710f4e914c0491fa25cf3, type: 3}
+  - {fileID: 21300000, guid: 108c63f11f514ee4baf0ae61ed6ee363, type: 3}
+  - {fileID: 21300000, guid: 672955f1a5b97a3489fbe7d2bf20a74a, type: 3}
+  - {fileID: 21300000, guid: c60f7cf1ed80f5840ac51195ae687e71, type: 3}
+  - {fileID: 21300000, guid: 65a9410232dbc154c9cec96a5fbd07b1, type: 3}
+  - {fileID: 21300000, guid: fb3a1d13398650540bbd14bf303fc12b, type: 3}
+  - {fileID: 21300000, guid: 963a4a43983994b44b9b704505fd1a3f, type: 3}
+  - {fileID: -3772756938629842982, guid: ad4b4c9367212504f9f6d184f749861f, type: 3}
+  - {fileID: -2867391816421271387, guid: ad4b4c9367212504f9f6d184f749861f, type: 3}
+  - {fileID: 7789680453554502035, guid: ad4b4c9367212504f9f6d184f749861f, type: 3}
+  - {fileID: 7846385014881470884, guid: ad4b4c9367212504f9f6d184f749861f, type: 3}
+  - {fileID: -171637973622636266, guid: 904300c3ee0e1b944b9c7be8d2d70bf7, type: 3}
+  - {fileID: 8932255603167850041, guid: 904300c3ee0e1b944b9c7be8d2d70bf7, type: 3}
+  - {fileID: 21300000, guid: 47c96e5414c2b4449920b448538df93a, type: 3}
+  - {fileID: 21300000, guid: b634c8a51d4a2d440b44719a9c1329ba, type: 3}
+  - {fileID: 21300000, guid: af838e5920baaaa4cbb24dab99c4458d, type: 3}
+  - {fileID: 21300000, guid: 11fcd679d2a042349b976f4aadbf9edb, type: 3}
+  - {fileID: 21300000, guid: 5709f24a5539a674e91a7b44ed2ffb0b, type: 3}
+  - {fileID: 21300000, guid: 76bf8a4a17e1449489753eba8b678dac, type: 3}
+  - {fileID: 21300000, guid: 0b3d25bb30efc5847954849ba0b1453d, type: 3}
+  - {fileID: 21300000, guid: a83c32cdf9c1bf14dbfb441debb08e25, type: 3}
+  - {fileID: 21300000, guid: ef419fce13384654bab5cbf27232d640, type: 3}
+  - {fileID: 21300000, guid: c9d505ee85cf51e41ba92b58884947a7, type: 3}
+  - {fileID: 21300000, guid: af50dc4fa7b6d314895d0f8c79adb4a5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 20201
+  - Helmet_Icon
+  - 21002
+  - 20202
+  - 22001
+  - 20001
+  - Armor_Icon
+  - 22002
+  - 10002
+  - Magic_02
+  - Magic_01
+  - Bow_01
+  - Bow_02
+  - Sword_01
+  - Sword_02
+  - Shield_Icon
+  - Boots_Icon
+  - 20002
+  - 20101
+  - 23002
+  - 10001
+  - Close_Icon
+  - 23001
+  - 21001
+  - 20102
+  - Sword_Icon
+  m_RenderDataMap: {}
+  m_Tag: UIAttlas
+  m_IsVariant: 0

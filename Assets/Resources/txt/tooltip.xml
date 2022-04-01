@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rows>
+	<tooltip>
+		<count>0</count>
+		<tip>도움말을 여기에 넣어주세요.</tip>
+	</tooltip>
+	<tooltip>
+		<count>1</count>
+		<tip>도움말을 여기에 넣어주세요2.</tip>
+	</tooltip>
+	<tooltip>
+		<count>2</count>
+		<tip>도움말을 여기에 넣어주세요3.</tip>
+	</tooltip>
+	<tooltip>
+		<count>3</count>
+		<tip>도움말을 여기에 넣어주세요4.</tip>
+	</tooltip>
+	<tooltip>
+		<count>4</count>
+		<tip>도움말을 여기에 넣어주세요5.</tip>
+	</tooltip>
+</rows>
